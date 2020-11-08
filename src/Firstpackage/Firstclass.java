@@ -10,6 +10,8 @@ public class Firstclass {
 		System.out.println(" after kommit");
 		
 		System.out.println("first commit from master branch");
+		
+		System.out.println("first commit from master branch ok__????????????????");
 	}
 
 }

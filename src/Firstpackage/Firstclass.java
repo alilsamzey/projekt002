@@ -17,6 +17,7 @@ public class Firstclass {
 		System.out.println("mein kommit");
 		
 		System.out.println("secong commit from remore maste branch");
+		System.out.println("here is another conflict maste branch");
 	}
 
 }

@@ -14,11 +14,13 @@ public class Firstclass {
 		System.out.println("first commit from master branch ok__????????????????");
 	
 	
+
 		System.out.println("here is a merge conflict i create from local");
 		System.out.println("here is a merge conflict i create from local");
 		System.out.println("here is a merge conflict i create from local");
 		System.out.println("here is a merge conflict i create from local");
 		System.out.println("here is a merge conflict i create from local");
+
 	}
 
 }
